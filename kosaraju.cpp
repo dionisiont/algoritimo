@@ -1,7 +1,3 @@
-/*
-	Implementação do algoritmo de Kosaraju
-	Detecta componentes fortemente conectadas
-*/
 
 #include <iostream>
 #include <stack>
